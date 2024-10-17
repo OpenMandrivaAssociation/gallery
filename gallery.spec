@@ -8,7 +8,7 @@ Release:          %{release}
 %define release   %mkrel 2
 
 Summary:          Customizable photo gallery web site
-Url:              http://gallery.menalto.com
+Url:              https://gallery.menalto.com
 Source0:          http://downloads.sourceforge.net/gallery/gallery-%{version}-full.tar.bz2
 #Source1:		  README.urpmi
 License:          GPLv2+
