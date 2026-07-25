@@ -5,7 +5,7 @@ Release:          %{release}
 %define name      gallery
 %define major	  2
 %define version   2.3.1
-%define release   %mkrel 2
+%define release 3
 
 Summary:          Customizable photo gallery web site
 Url:              https://gallery.menalto.com
